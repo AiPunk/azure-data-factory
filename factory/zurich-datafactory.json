@@ -1,0 +1,9 @@
+{
+	"name": "zurich-datafactory",
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d3b26c7f-5e53-4335-836a-464ed6e8cb6d",
+		"tenantId": "dd4505a9-6cd4-4946-8469-fe3f198364fd"
+	}
+}
